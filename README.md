@@ -1,16 +1,17 @@
 # tarajohnson3423371
 Intro to IT - Assignment 1
-
-
-	<b>Tara Johnson</b> <i>Profile</i>
-	<br><br>
+<br>
 	<br>
-	<i><b>Bio</b></i>
-	<br><i>Name</i> Tara Johnson<br>
-	<i>Student No.</i> 3423371<br>
-	<i>Nationality</i> Australian<br>
-	<i>Education</i> High School Certificate, Bachelor’s Degree in Fashion (Design)<br>
-	<i>Languages</i> English (native), French (beginner)<br>
+<b>Tara Johnson</b> <i>Profile</i>
+<br><br>
+<br>
+<b>Bio</b>
+<i>Name</i> Tara Johnson
+	<i>Student No.:</i> 3423371
+	<i> Nationality</i>: Australian
+	<i>Education</i>: High School Certificate, Bachelors Degree in Fashion (Design)
+	<i>Languages</i>: English (Native), French (Beginner)
+
 Concurrently undertaking a short course via coursera on learning how to learn, to enhance learning skills and information retention.</font><br>
 <br>
 <br>
