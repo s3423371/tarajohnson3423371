@@ -116,22 +116,22 @@ Cinema 4d and Unity are both easily accessible in terms of animation creation. C
 <br>
 <br>
 <b><i>References</i></b>
-Asia Topa 2019, Feedback Loops, viewed 16 June 2020,[link](https://www.asiatopa.com.au/whats-on/2020/visual-and-digital/feedback-loops)
+Asia Topa 2019, <i>Feedback Loops</i>, viewed 16 June 2020,[link](https://www.asiatopa.com.au/whats-on/2020/visual-and-digital/feedback-loops)
 <br>
 <br>
-Educationplanner.org n.d., What’s your learning style? The results, viewed 16 June 2020, [link](http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml?event=results&A=4&V=13&T=3)
+Educationplanner.org n.d., <i>What’s your learning style? The results</i>, viewed 16 June 2020, [link](http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml?event=results&A=4&V=13&T=3)
 <br>
 <br>
-Heide 2019, Terminus: Jess Johnson and Simon Ward, viewed 16 June 2020, [link](https://www.heide.com.au/exhibitions/terminus-jess-johnson-and-simon-ward)
+Heide 2019, <i>Terminus: Jess Johnson and Simon Ward</i>, viewed 16 June 2020, [link](https://www.heide.com.au/exhibitions/terminus-jess-johnson-and-simon-ward)
 <br>
 <br>
-NERIS Analytics Limited 2011-2020, 16 Personalities Mediator Personality INFP-A / INFP-T, viewed 16 June 2020, [link](https://www.16personalities.com/infp-personality)
+NERIS Analytics Limited 2011-2020, <i>16 Personalities Mediator Personality INFP-A / INFP-T</i>, viewed 16 June 2020, [link](https://www.16personalities.com/infp-personality)
 <br>
 <br>
-Truity 2020, The Big Five Personality Test, viewed 16 June 2020, [link](https://www.truity.com/personality-test/17315/test-results/21993136)
+Truity 2020, <i>The Big Five Personality Test</i>, viewed 16 June 2020, [link](https://www.truity.com/personality-test/17315/test-results/21993136)
 <br>
 <br>
-Unity3d 2020, Getting started with VR development in Unity, viewed 16 June 2020, [link](https://docs.unity3d.com/Manual/VROverview.html)
+Unity3d 2020,<i>Getting started with VR development in Unity</i>, viewed 16 June 2020, [link](https://docs.unity3d.com/Manual/VROverview.html)
 
 
 
