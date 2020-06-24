@@ -6,16 +6,16 @@ Intro to IT - Assignment 1
 	<b>Tara Johnson</b> &nbsp <i>Profile</i>
 	<br><br>
 	<br>
-	<b><i>Bio</b></i>
-	<br><i>Name</i> &nbsp&nbsp Tara Johnson<br>
-	<i>Student No.</i> &nbsp&nbsp 3423371<br>
-	<i>Nationality</i> &nbsp&nbsp Australian<br>
-	<i>Education</i> &nbsp&nbsp High School Certificate, Bachelor’s Degree in Fashion (Design)<br>
-	<i>Languages</i> &nbsp&nbsp English (native), French (beginner)<br>
+	<b><i>Bio</i></b>
+	<br><i>Name</i> Tara Johnson<br>
+	<i>Student No.</i> 3423371<br>
+	<i>Nationality</i> Australian<br>
+	<i>Education</i> High School Certificate, Bachelor’s Degree in Fashion (Design)<br>
+	<i>Languages</i> English (native), French (beginner)<br>
 Concurrently undertaking a short course via coursera on learning how to learn, to enhance learning skills and information retention.</font><br>
 <br>
 <br>
-<b><i>Interests in IT</b></i>	
+<b><i>Interests in IT</i></b>
 <br>
 <br>
 <i>What is your interest in IT? When did your interest in IT start? Was there a particular event or person that sparked your interest? Outline your IT experience (if any).</i>
@@ -82,7 +82,7 @@ Work consistently towards obtaining a BA in IT (Games Design and Development). I
 <br>
 <br>
 <br>
-<b><i>Project Idea / Outline</b></i>	
+<b><i>Project Idea / Outline</i></b>	
 <br>
 <br>
 An animation and VR sequence game that uses visual cues, objects and storyline to foster emotional reaction from the user. The game is contextualised for use within exhibition spaces that garner multiple transactory use from the public. The animation is structured to give a brief outline of the game landscape, the VR aspect encourages full immersion in the game landscape and a new temporary reality for the user. Set in a dystopian future world, the game promotes engagement between the user and the world, facilitating a choose your own adventure style interaction with the world and its inhabitants. 				
@@ -116,23 +116,23 @@ Cinema 4d and Unity are both easily accessible in terms of animation creation. C
 <br>
 <br>
 <br>
-<b><i>References</b></i>
-Asia Topa 2019, Feedback Loops, viewed 16 June 2020, (https://www.asiatopa.com.au/whats-on/2020/visual-and-digital/feedback-loops)
+<b><i>References</i></b>
+Asia Topa 2019, Feedback Loops, viewed 16 June 2020,[link](https://www.asiatopa.com.au/whats-on/2020/visual-and-digital/feedback-loops)
 <br>
 <br>
-Educationplanner.org n.d., What’s your learning style? The results, viewed 16 June 2020, (http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml?event=results&A=4&V=13&T=3)
+Educationplanner.org n.d., What’s your learning style? The results, viewed 16 June 2020, [link](http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml?event=results&A=4&V=13&T=3)
 <br>
 <br>
-Heide 2019, Terminus: Jess Johnson and Simon Ward, viewed 16 June 2020, (https://www.heide.com.au/exhibitions/terminus-jess-johnson-and-simon-ward)
+Heide 2019, Terminus: Jess Johnson and Simon Ward, viewed 16 June 2020, [link](https://www.heide.com.au/exhibitions/terminus-jess-johnson-and-simon-ward)
 <br>
 <br>
-NERIS Analytics Limited 2011-2020, 16 Personalities Mediator Personality INFP-A / INFP-T, viewed 16 June 2020, (https://www.16personalities.com/infp-personality)
+NERIS Analytics Limited 2011-2020, 16 Personalities Mediator Personality INFP-A / INFP-T, viewed 16 June 2020, [link](https://www.16personalities.com/infp-personality)
 <br>
 <br>
-Truity 2020, The Big Five Personality Test, viewed 16 June 2020, (https://www.truity.com/personality-test/17315/test-results/21993136)
+Truity 2020, The Big Five Personality Test, viewed 16 June 2020, [link](https://www.truity.com/personality-test/17315/test-results/21993136)
 <br>
 <br>
-Unity3d 2020, Getting started with VR development in Unity, viewed 16 June 2020, (https://docs.unity3d.com/Manual/VROverview.html)
+Unity3d 2020, Getting started with VR development in Unity, viewed 16 June 2020, [link](https://docs.unity3d.com/Manual/VROverview.html)
 
 
 
