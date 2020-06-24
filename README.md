@@ -3,7 +3,7 @@ Intro to IT - Assignment 1
 
 </head>
 	<body>
-	<b><h1>Tara Johnson<h1></b> &nbsp <i>Profile</i>
+	<b>Tara Johnson</b> &nbsp <i>Profile</i>
 	<br><br>
 	<br>
 	<b><i>Bio</b></i>
