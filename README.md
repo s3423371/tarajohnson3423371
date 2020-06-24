@@ -5,10 +5,10 @@ Intro to IT - Assignment 1
 <b>Tara Johnson</b> <i>Profile</i>
 <br><br>
 <br>
-<b>Bio</b>
+<i><b>Bio</b></i>
 <br>
 <br>
-<i>Name</i> Tara Johnson
+<i>Name:</i> Tara Johnson
 <br>
 	<i>Student No.:</i> 3423371
 	<br>
