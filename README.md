@@ -1,12 +1,11 @@
 # tarajohnson3423371
 Intro to IT - Assignment 1
 
-</head>
-	<body>
-	<b>Tara Johnson</b> &nbsp <i>Profile</i>
+
+	<b>Tara Johnson</b> <i>Profile</i>
 	<br><br>
 	<br>
-	<b><i>Bio</i></b>
+	<i><b>Bio</b></i>
 	<br><i>Name</i> Tara Johnson<br>
 	<i>Student No.</i> 3423371<br>
 	<i>Nationality</i> Australian<br>
